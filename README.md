@@ -21,4 +21,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=CleoLeal&repo=CleoLeal&theme=react)](https://github.com/CleoLeal/CleoLeal)
+
