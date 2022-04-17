@@ -15,7 +15,7 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
  
 </div>
-  <br>  <a href="https://www.instagram.com/cleo.leal/" target="_blank">
+  <br>  <a href="https://www.instagram.com/cleo.leal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/CleoLeal/CleoLeal/blob/output/github-contribution-grid-snake.svg)
  
