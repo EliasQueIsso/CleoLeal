@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/CleoLeal">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=CleoLeal&show_icons=true&theme=react&include_all_commits=false&count_private=false"/>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=CleoLeal&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleoLeal&layout=compact&langs_count=7&theme=react" />
 
 </div>
@@ -20,5 +20,3 @@
   ![Snake animation](https://github.com/CleoLeal/CleoLeal/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-
