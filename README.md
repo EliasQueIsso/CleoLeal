@@ -16,7 +16,7 @@
  
 </div>
   <br>  <a href="https://www.instagram.com/cleo.leal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cleo-l-67b124243/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" target="_blank" widht:"10"></a>
+  <a href="https://www.linkedin.com/in/cleo-l-67b124243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/CleoLeal/CleoLeal/blob/output/github-contribution-grid-snake.svg)
  
